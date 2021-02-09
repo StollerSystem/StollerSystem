@@ -1,5 +1,5 @@
-## Currently enrolled at Epicodus in Portland, OR 
-### Learning JavaScript, C#/.NET, React and more computer magic! :computer: :floppy_disk: :crystal_ball:
+## Software dev in Portland, OR :computer: :floppy_disk: :crystal_ball:
+  
 
            
 
